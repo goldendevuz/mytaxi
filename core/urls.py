@@ -25,7 +25,7 @@ from django.views.static import serve
 urlpatterns = [
     path('',getRoutes,name='get-routes'),
     path('admin/', admin.site.urls),
-    path('api/v2/',include('myapp.urls'))
+    path('api/v1/',include('main.urls'))
 ]
 
 

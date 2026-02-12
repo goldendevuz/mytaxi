@@ -91,3 +91,6 @@ db.sqlite3
 sqlite3
 Requirements
 hint.txt
+/data
+/media
+/static
