@@ -3,7 +3,7 @@
 
 
 # Installation
-* Clone repo https://github.com/Muhammadali-Akbarov/mytaxi
+* Clone repo from https://github.com/goldendevuz/mytaxi
 * Create a virtual environment and activate
 *  - ```pip3 install virtualenv```
 *  - ```virtualenv venv```
@@ -21,6 +21,3 @@
 
 # Methods GET,POST & PUT.
 <img src="./assets/images/img3.jpg">  
-
-
-
